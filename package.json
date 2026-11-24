@@ -1,0 +1,15 @@
+{
+  "name": "matilha",
+  "version": "0.1.0",
+  "description": "Lobos-guará que caçam em matilha de noite nas planícies: um mob feito só de Goals, com a própria regra de nascimento e o próprio teto.",
+  "authors": [
+    "MineClaude"
+  ],
+  "private": true,
+  "scripts": {
+    "main": "dist/main/main.js",
+    "_sources": {
+      "main": "src/main.ts"
+    }
+  }
+}
